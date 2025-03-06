@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <h1>app</h1>
+    <h1 className="bg-gray-500 font-2xl">app</h1>
   )
 }
 
